@@ -1,6 +1,6 @@
 # speed_meter.aleo
 
-This Leo program, `speed_calculator.aleo`, is designed to calculate speed based on user-provided distance and time values. It utilizes a simple formula: speed = distance / time.
+This Leo program, `speed_meter`, is designed to calculate speed based on user-provided distance and time values. It utilizes a simple formula: speed = distance / time.
 
 ## Build Guide
 
